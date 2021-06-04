@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Holiday_Travel_Website\Holiday_Travel_Entities\bin\Debug\Holiday_Travel_Entities.dll
+C:\Users\user\source\repos\Holiday_Travel_Website\Holiday_Travel_Entities\bin\Debug\Holiday_Travel_Entities.pdb
+C:\Users\user\source\repos\Holiday_Travel_Website\Holiday_Travel_Entities\obj\Debug\Holiday_Travel_Entities.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Holiday_Travel_Website\Holiday_Travel_Entities\obj\Debug\Holiday_Travel_Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Holiday_Travel_Website\Holiday_Travel_Entities\obj\Debug\Holiday_Travel_Entities.dll
+C:\Users\user\source\repos\Holiday_Travel_Website\Holiday_Travel_Entities\obj\Debug\Holiday_Travel_Entities.pdb

@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Holiday_Travel_Website\Holiday_Travel_Data\bin\Debug\Holiday_Travel_Data.dll.config
+C:\Users\user\source\repos\Holiday_Travel_Website\Holiday_Travel_Data\bin\Debug\Holiday_Travel_Data.dll
+C:\Users\user\source\repos\Holiday_Travel_Website\Holiday_Travel_Data\bin\Debug\Holiday_Travel_Data.pdb
+C:\Users\user\source\repos\Holiday_Travel_Website\Holiday_Travel_Data\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\Holiday_Travel_Website\Holiday_Travel_Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\Holiday_Travel_Website\Holiday_Travel_Data\bin\Debug\Holiday_Travel_Entities.dll
+C:\Users\user\source\repos\Holiday_Travel_Website\Holiday_Travel_Data\bin\Debug\Holiday_Travel_Entities.pdb
+C:\Users\user\source\repos\Holiday_Travel_Website\Holiday_Travel_Data\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\Holiday_Travel_Website\Holiday_Travel_Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\Holiday_Travel_Website\Holiday_Travel_Data\obj\Debug\Holiday_Travel_Data.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Holiday_Travel_Website\Holiday_Travel_Data\obj\Debug\Holiday_Travel_Data.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Holiday_Travel_Website\Holiday_Travel_Data\obj\Debug\Holiday_Travel_Data.csproj.CopyComplete
+C:\Users\user\source\repos\Holiday_Travel_Website\Holiday_Travel_Data\obj\Debug\Holiday_Travel_Data.dll
+C:\Users\user\source\repos\Holiday_Travel_Website\Holiday_Travel_Data\obj\Debug\Holiday_Travel_Data.pdb
+C:\Users\user\source\repos\Holiday_Travel_Website\Holiday_Travel_Data\obj\Debug\Holiday_Travel_Data.Migrations.FirstMigHoliday.resources
+C:\Users\user\source\repos\Holiday_Travel_Website\Holiday_Travel_Data\obj\Debug\Holiday_Travel_Data.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Holiday_Travel_Website\Holiday_Travel_Data\obj\Debug\Holiday_Travel_Data.Migrations.SecondMigHoliday.resources

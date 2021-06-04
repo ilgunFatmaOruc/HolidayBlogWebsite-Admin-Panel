@@ -1,0 +1,30 @@
+﻿@using Holiday_Travel_Entities;
+
+@model List<About>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="content">
+    <div class="wrap">
+        <div class="about">
+            <h3>About</h3>
+            @foreach (var x in Model)
+            { 
+                <p>@x.AboutDescription</p>
+            }
+            <img src="~/web/images/about_banner.jpg" alt="" />
+            @foreach (var x in Model)
+            {
+                <p>@x.AboutDescription</p>
+            }
+
+        </div>
+    </div>
+</div>
+
+
